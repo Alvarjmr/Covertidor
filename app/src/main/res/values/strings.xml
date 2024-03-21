@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+    <string name="cantidad">COP</string>
+    <string name="cantidaddolar">USD</string>
+    <string name="cantidaeuro">EUR</string>
+    <string name="convertir">Convertir</string>
+</resources>
